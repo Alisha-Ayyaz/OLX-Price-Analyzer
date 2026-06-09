@@ -1,0 +1,6 @@
+*.xlsx
+*.log
+__pycache__/
+.streamlit/
+.venv/
+venv/
